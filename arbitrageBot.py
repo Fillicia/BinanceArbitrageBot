@@ -12,19 +12,19 @@ binance.initializeLotInfo()
 lots = binance.lots
 
 # coins which contain both eth and btc trading pairs
-selectCoins = ['SC',  'LSK', 'LTC', 'QTUM', 'EOS', 'BNT', 'BCC', 'HSR', 'OAX', 
-               'DNT', 'MCO', 'ICN', 'ZRX', 'OMG', 'WTC', 'LRC', 'YOYO', 'TRX', 'STRAT', 
-               'SNGLS', 'KNC', 'BQX', 'SNM', 'FUN', 'LINK', 'XVG', 'SALT', 'MDA', 'IOTA', 
-               'SUB', 'ETC', 'MTL', 'ARK', 'MTH', 'ENG', 'AST', 'DASH', 'BTG', 'EVX', 'REQ', 
-               'VIB', 'POWR', 'BNB', 'XRP', 'MOD', 'ENJ', 'STORJ', 'VEN', 'KMD', 'RCN', 'NULS', 
-               'RDN', 'XMR', 'DLT', 'AMB', 'BAT', 'ZEC', 'BCPT', 'ARN', 'CDT', 'GXS', 'POE', 
-               'QSP', 'BTS', 'NEO', 'XZC', 'TNT', 'FUEL', 'MANA', 'BCD', 'DGD', 'ADX', 'ADA', 
-               'PPT', 'CMT', 'XLM', 'CND', 'LEND', 'WABI', 'WAVES', 'TNB', 'GTO', 'ICX', 'OST', 
-               'ELF', 'AION', 'SYS', 'LOOM', 'BRD', 'VIA','NANO','GRS','IOST','DATA','NXS',
-               'WPR','INS','XEM','QKC','CHAT','ZIL','THETA','POA','ZEN','VIBE','RPX','BCN',
-               'NEBL','BLZ','AE','CLOAK','STEEM','QLC','AGI','GNT','WAN','REP','RLC','STORM',
-               'CVC','IOTX','ONT','SKY','LUN','NCASH','TUSD','EDO','WINGS','NAV','TRIG','APPC',
-               'PIVX'
+selectCoins = ['SC',  'LSK', 'LTC', 'QTUM', 'EOS', 'BNT',
+               'ZRX', 'OMG', 'LRC', 'TRX', 
+               'KNC', 'BQX', 'FUN', 'LINK', 'XVG', 'IOTA', 
+               'ETC', 'MTL', 'DASH', 'ATOM', 'VET',
+               'VIB', 'POWR', 'BNB', 'XRP', 'ENJ', 'KMD',
+               'XMR', 'BAT', 'ZEC', 'CDT', 'GXS', 
+               'QSP', 'NEO', 'MANA', 'ADX', 'ADA', 
+               'XLM', 'WAVES', 'ICX', 'OST', 
+               'ELF', 'AION', 'LOOM', 'BRD', 'NANO', 'IOST','DATA',
+               'XEM','QKC','ZIL','THETA','ZEN',
+               'NEBL','BLZ','STEEM','QLC','WAN','REP','RLC',
+               'CVC','IOTX','ONT','LUN','TUSD','WINGS','NAV',
+               'PIVX
                ]
 
 
